@@ -1,0 +1,13 @@
+.bundle
+db/*.sqlite3
+config/database.yml
+log/
+spec/fixtures/*.yml
+tmp/
+.sass-cache/
+.idea
+.DS_Store
+chromedriver.log
+public/assets
+solr/data
+solr/pids
