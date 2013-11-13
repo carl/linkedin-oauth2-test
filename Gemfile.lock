@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/decioferreira/omniauth-linkedin-oauth2.git
-  revision: 729a4afc2c8d17036ee409a35899c2a1481c4667
-  ref: 729a4afc2c8d17036ee409a35899c2a1481c4667
+  revision: 12d533b4b18b3a07e3280520078cab5f6e1fbfe8
+  ref: 12d533b4b18b3a07e3280520078cab5f6e1fbfe8
   specs:
-    omniauth-linkedin-oauth2 (0.0.2)
+    omniauth-linkedin-oauth2 (0.1.1)
       omniauth (~> 1.0)
       omniauth-oauth2
 
